@@ -1,27 +1,20 @@
 web.scraper.start.url,Constituency
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=1&electype=1,Carlow–Kilkenny
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=11&electype=1,Dublin Bay North
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=12&electype=1,Dublin Bay South
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=13&electype=1,Dublin Central
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=14&electype=1,Dublin Fingal
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=15&electype=1,Dublin Mid–West
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=19&electype=1,Dublin North–West
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=2&electype=1,Cavan–Monaghan
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=3&electype=1,Clare
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=4&electype=1,Cork East
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=5&electype=1,Cork North–Central
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=6&electype=1,Cork North–West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=7&electype=1,Cork South–Central
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=8&electype=1,Cork South–West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=52&electype=1,Dún Laoghaire
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=11&electype=1,Donegal
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=12&electype=1,Dublin Bay North
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=13&electype=1,Dublin Bay South
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=14&electype=1,Dublin Central
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=15&electype=1,Dublin Fingal
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=19&electype=1,Dublin Mid–West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=20&electype=1,Dublin North–West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=22&electype=1,Dublin Rathdown
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=24&electype=1,Dublin South–Central
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=25&electype=1,Dublin South–West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=26&electype=1,Dublin West
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=20&electype=1,Dublin Rathdown
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=22&electype=1,Dublin South–Central
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=24&electype=1,Dublin South–West
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=25&electype=1,Dublin West
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=26&electype=1,Dún Laoghaire
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=27&electype=1,Galway East
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=28&electype=1,Galway West
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=53&electype=1,Kerry
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=3&electype=1,Clare
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=31&electype=1,Kildare North
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=32&electype=1,Kildare South
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=34&electype=1,Laois–Offaly
@@ -29,12 +22,19 @@ https://irelandelection.com/electiondetail.php?elecid=238&constitid=36&electype=
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=37&electype=1,Limerick County
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=38&electype=1,Longford–Westmeath
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=39&electype=1,Louth
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=4&electype=1,Cork East
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=40&electype=1,Mayo
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=41&electype=1,Meath East
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=42&electype=1,Meath West
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=44&electype=1,Roscommon–Galway
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=54&electype=1,Sligo–Leitrim
-https://irelandelection.com/electiondetail.php?elecid=238&constitid=55&electype=1,Tipperary
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=49&electype=1,Waterford
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=5&electype=1,Cork North–Central
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=50&electype=1,Wexford
 https://irelandelection.com/electiondetail.php?elecid=238&constitid=51&electype=1,Wicklow
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=52&electype=1,Donegal<
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=53&electype=1,Kerry
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=54&electype=1,Sligo–Leitrim
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=55&electype=1,Tipperary
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=6&electype=1,Cork North–West
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=7&electype=1,Cork South–Central
+https://irelandelection.com/electiondetail.php?elecid=238&constitid=8&electype=1,Cork South–West
