@@ -1,14 +1,14 @@
 Election,Constituency,Multi-party,FP_Share_Plus_Polls_Recent
-Election_2016,Carlow–Kilkenny,All Others,0.0963
-Election_2016,Carlow–Kilkenny,FF,0.3076
-Election_2016,Carlow–Kilkenny,FG,0.319
-Election_2016,Carlow–Kilkenny,GP-LAB-SD,0.1045
-Election_2016,Carlow–Kilkenny,SF,0.1706
-Election_2016,Cavan–Monaghan,All Others,0.1373
-Election_2016,Cavan–Monaghan,FF,0.2276
-Election_2016,Cavan–Monaghan,FG,0.322
-Election_2016,Cavan–Monaghan,GP-LAB-SD,0
-Election_2016,Cavan–Monaghan,SF,0.3346
+Election_2016,Carlow-Kilkenny,All Others,0.0963
+Election_2016,Carlow-Kilkenny,FF,0.3076
+Election_2016,Carlow-Kilkenny,FG,0.319
+Election_2016,Carlow-Kilkenny,GP-LAB-SD,0.1045
+Election_2016,Carlow-Kilkenny,SF,0.1706
+Election_2016,Cavan-Monaghan,All Others,0.1373
+Election_2016,Cavan-Monaghan,FF,0.2276
+Election_2016,Cavan-Monaghan,FG,0.322
+Election_2016,Cavan-Monaghan,GP-LAB-SD,0
+Election_2016,Cavan-Monaghan,SF,0.3346
 Election_2016,Clare,All Others,0.2433
 Election_2016,Clare,FF,0.2476
 Election_2016,Clare,FG,0.35
@@ -19,26 +19,26 @@ Election_2016,Cork East,FF,0.1956
 Election_2016,Cork East,FG,0.293
 Election_2016,Cork East,GP-LAB-SD,0.2335
 Election_2016,Cork East,SF,0.1866
-Election_2016,Cork North–Central,All Others,0.2153
-Election_2016,Cork North–Central,FF,0.1776
-Election_2016,Cork North–Central,FG,0.19
-Election_2016,Cork North–Central,GP-LAB-SD,0.1885
-Election_2016,Cork North–Central,SF,0.2276
-Election_2016,Cork North–West,All Others,0.0903
-Election_2016,Cork North–West,FF,0.2756
-Election_2016,Cork North–West,FG,0.415
-Election_2016,Cork North–West,GP-LAB-SD,0.0685
-Election_2016,Cork North–West,SF,0.1496
-Election_2016,Cork South–Central,All Others,0.1353
-Election_2016,Cork South–Central,FF,0.3066
-Election_2016,Cork South–Central,FG,0.274
-Election_2016,Cork South–Central,GP-LAB-SD,0.1255
-Election_2016,Cork South–Central,SF,0.1576
-Election_2016,Cork South–West,All Others,0.1013
-Election_2016,Cork South–West,FF,0.2626
-Election_2016,Cork South–West,FG,0.412
-Election_2016,Cork South–West,GP-LAB-SD,0.0745
-Election_2016,Cork South–West,SF,0.1486
+Election_2016,Cork North-Central,All Others,0.2153
+Election_2016,Cork North-Central,FF,0.1776
+Election_2016,Cork North-Central,FG,0.19
+Election_2016,Cork North-Central,GP-LAB-SD,0.1885
+Election_2016,Cork North-Central,SF,0.2276
+Election_2016,Cork North-West,All Others,0.0903
+Election_2016,Cork North-West,FF,0.2756
+Election_2016,Cork North-West,FG,0.415
+Election_2016,Cork North-West,GP-LAB-SD,0.0685
+Election_2016,Cork North-West,SF,0.1496
+Election_2016,Cork South-Central,All Others,0.1353
+Election_2016,Cork South-Central,FF,0.3066
+Election_2016,Cork South-Central,FG,0.274
+Election_2016,Cork South-Central,GP-LAB-SD,0.1255
+Election_2016,Cork South-Central,SF,0.1576
+Election_2016,Cork South-West,All Others,0.1013
+Election_2016,Cork South-West,FF,0.2626
+Election_2016,Cork South-West,FG,0.412
+Election_2016,Cork South-West,GP-LAB-SD,0.0745
+Election_2016,Cork South-West,SF,0.1486
 Election_2016,Donegal<,All Others,0.2228
 Election_2016,Donegal<,FF,0.2281
 Election_2016,Donegal<,FG,0.1845
@@ -64,31 +64,31 @@ Election_2016,Dublin Fingal,FF,0.1806
 Election_2016,Dublin Fingal,FG,0.241
 Election_2016,Dublin Fingal,GP-LAB-SD,0.2635
 Election_2016,Dublin Fingal,SF,0.0756
-Election_2016,Dublin Mid–West,All Others,0.1693
-Election_2016,Dublin Mid–West,FF,0.1446
-Election_2016,Dublin Mid–West,FG,0.236
-Election_2016,Dublin Mid–West,GP-LAB-SD,0.2565
-Election_2016,Dublin Mid–West,SF,0.1936
-Election_2016,Dublin North–West,All Others,0.1133
-Election_2016,Dublin North–West,FF,0.1446
-Election_2016,Dublin North–West,FG,0.094
-Election_2016,Dublin North–West,GP-LAB-SD,0.3555
-Election_2016,Dublin North–West,SF,0.2926
+Election_2016,Dublin Mid-West,All Others,0.1693
+Election_2016,Dublin Mid-West,FF,0.1446
+Election_2016,Dublin Mid-West,FG,0.236
+Election_2016,Dublin Mid-West,GP-LAB-SD,0.2565
+Election_2016,Dublin Mid-West,SF,0.1936
+Election_2016,Dublin North-West,All Others,0.1133
+Election_2016,Dublin North-West,FF,0.1446
+Election_2016,Dublin North-West,FG,0.094
+Election_2016,Dublin North-West,GP-LAB-SD,0.3555
+Election_2016,Dublin North-West,SF,0.2926
 Election_2016,Dublin Rathdown,All Others,0.3253
 Election_2016,Dublin Rathdown,FF,0.1206
 Election_2016,Dublin Rathdown,FG,0.291
 Election_2016,Dublin Rathdown,GP-LAB-SD,0.1615
 Election_2016,Dublin Rathdown,SF,0.1016
-Election_2016,Dublin South–Central,All Others,0.2193
-Election_2016,Dublin South–Central,FF,0.1216
-Election_2016,Dublin South–Central,FG,0.161
-Election_2016,Dublin South–Central,GP-LAB-SD,0.2885
-Election_2016,Dublin South–Central,SF,0.2096
-Election_2016,Dublin South–West,All Others,0.1263
-Election_2016,Dublin South–West,FF,0.1346
-Election_2016,Dublin South–West,FG,0.204
-Election_2016,Dublin South–West,GP-LAB-SD,0.2875
-Election_2016,Dublin South–West,SF,0.2476
+Election_2016,Dublin South-Central,All Others,0.2193
+Election_2016,Dublin South-Central,FF,0.1216
+Election_2016,Dublin South-Central,FG,0.161
+Election_2016,Dublin South-Central,GP-LAB-SD,0.2885
+Election_2016,Dublin South-Central,SF,0.2096
+Election_2016,Dublin South-West,All Others,0.1263
+Election_2016,Dublin South-West,FF,0.1346
+Election_2016,Dublin South-West,FG,0.204
+Election_2016,Dublin South-West,GP-LAB-SD,0.2875
+Election_2016,Dublin South-West,SF,0.2476
 Election_2016,Dublin West,All Others,0.2533
 Election_2016,Dublin West,FF,0.1926
 Election_2016,Dublin West,FG,0.199
@@ -138,11 +138,11 @@ Election_2016,Limerick County,FF,0.2346
 Election_2016,Limerick County,FG,0.414
 Election_2016,Limerick County,GP-LAB-SD,0.0985
 Election_2016,Limerick County,SF,0.0756
-Election_2016,Longford–Westmeath,All Others,0.1333
-Election_2016,Longford–Westmeath,FF,0.2206
-Election_2016,Longford–Westmeath,FG,0.308
-Election_2016,Longford–Westmeath,GP-LAB-SD,0.1865
-Election_2016,Longford–Westmeath,SF,0.1506
+Election_2016,Longford-Westmeath,All Others,0.1333
+Election_2016,Longford-Westmeath,FF,0.2206
+Election_2016,Longford-Westmeath,FG,0.308
+Election_2016,Longford-Westmeath,GP-LAB-SD,0.1865
+Election_2016,Longford-Westmeath,SF,0.1506
 Election_2016,Louth,All Others,0.1293
 Election_2016,Louth,FF,0.1836
 Election_2016,Louth,FG,0.242
@@ -167,16 +167,16 @@ Election_2016,Offaly,FF,0.3846
 Election_2016,Offaly,FG,0.082
 Election_2016,Offaly,GP-LAB-SD,0
 Election_2016,Offaly,SF,0.1846
-Election_2016,Roscommon–Galway,All Others,0.3253
-Election_2016,Roscommon–Galway,FF,0.1766
-Election_2016,Roscommon–Galway,FG,0.312
-Election_2016,Roscommon–Galway,GP-LAB-SD,0.0135
-Election_2016,Roscommon–Galway,SF,0.1736
-Election_2016,Sligo–Leitrim,All Others,0.2233
-Election_2016,Sligo–Leitrim,FF,0.2446
-Election_2016,Sligo–Leitrim,FG,0.296
-Election_2016,Sligo–Leitrim,GP-LAB-SD,0.0265
-Election_2016,Sligo–Leitrim,SF,0.2086
+Election_2016,Roscommon-Galway,All Others,0.3253
+Election_2016,Roscommon-Galway,FF,0.1766
+Election_2016,Roscommon-Galway,FG,0.312
+Election_2016,Roscommon-Galway,GP-LAB-SD,0.0135
+Election_2016,Roscommon-Galway,SF,0.1736
+Election_2016,Sligo-Leitrim,All Others,0.2233
+Election_2016,Sligo-Leitrim,FF,0.2446
+Election_2016,Sligo-Leitrim,FG,0.296
+Election_2016,Sligo-Leitrim,GP-LAB-SD,0.0265
+Election_2016,Sligo-Leitrim,SF,0.2086
 Election_2016,Tipperary,All Others,0.4008
 Election_2016,Tipperary,FF,0.1746
 Election_2016,Tipperary,FG,0.2185
@@ -197,16 +197,16 @@ Election_2016,Wicklow,FF,0.1326
 Election_2016,Wicklow,FG,0.323
 Election_2016,Wicklow,GP-LAB-SD,0.1015
 Election_2016,Wicklow,SF,0.1766
-Election_2020,Carlow–Kilkenny,All Others,0.1543
-Election_2020,Carlow–Kilkenny,FF,0.4306
-Election_2020,Carlow–Kilkenny,FG,0.201
-Election_2020,Carlow–Kilkenny,GP-LAB-SD,0.0145
-Election_2020,Carlow–Kilkenny,SF,0.1996
-Election_2020,Cavan–Monaghan,All Others,0.1463
-Election_2020,Cavan–Monaghan,FF,0.3276
-Election_2020,Cavan–Monaghan,FG,0.245
-Election_2020,Cavan–Monaghan,GP-LAB-SD,0
-Election_2020,Cavan–Monaghan,SF,0.3466
+Election_2020,Carlow-Kilkenny,All Others,0.1543
+Election_2020,Carlow-Kilkenny,FF,0.4306
+Election_2020,Carlow-Kilkenny,FG,0.201
+Election_2020,Carlow-Kilkenny,GP-LAB-SD,0.0145
+Election_2020,Carlow-Kilkenny,SF,0.1996
+Election_2020,Cavan-Monaghan,All Others,0.1463
+Election_2020,Cavan-Monaghan,FF,0.3276
+Election_2020,Cavan-Monaghan,FG,0.245
+Election_2020,Cavan-Monaghan,GP-LAB-SD,0
+Election_2020,Cavan-Monaghan,SF,0.3466
 Election_2020,Clare,All Others,0.3063
 Election_2020,Clare,FF,0.3346
 Election_2020,Clare,FG,0.185
@@ -217,25 +217,25 @@ Election_2020,Cork East,FF,0.2696
 Election_2020,Cork East,FG,0.212
 Election_2020,Cork East,GP-LAB-SD,0.0875
 Election_2020,Cork East,SF,0.1766
-Election_2020,Cork North–Central,All Others,0.2983
-Election_2020,Cork North–Central,FF,0.3056
-Election_2020,Cork North–Central,FG,0.105
-Election_2020,Cork North–Central,GP-LAB-SD,0.0205
-Election_2020,Cork North–Central,SF,0.2716
-Election_2020,Cork North–West,All Others,0.2903
-Election_2020,Cork North–West,FF,0.3726
-Election_2020,Cork North–West,FG,0.249
-Election_2020,Cork North–West,GP-LAB-SD,0.0125
-Election_2020,Cork South–Central,All Others,0.1763
-Election_2020,Cork South–Central,FF,0.4426
-Election_2020,Cork South–Central,FG,0.184
-Election_2020,Cork South–Central,GP-LAB-SD,0
-Election_2020,Cork South–Central,SF,0.2016
-Election_2020,Cork South–West,All Others,0.3693
-Election_2020,Cork South–West,FF,0.2226
-Election_2020,Cork South–West,FG,0.246
-Election_2020,Cork South–West,GP-LAB-SD,0.0015
-Election_2020,Cork South–West,SF,0.1606
+Election_2020,Cork North-Central,All Others,0.2983
+Election_2020,Cork North-Central,FF,0.3056
+Election_2020,Cork North-Central,FG,0.105
+Election_2020,Cork North-Central,GP-LAB-SD,0.0205
+Election_2020,Cork North-Central,SF,0.2716
+Election_2020,Cork North-West,All Others,0.2903
+Election_2020,Cork North-West,FF,0.3726
+Election_2020,Cork North-West,FG,0.249
+Election_2020,Cork North-West,GP-LAB-SD,0.0125
+Election_2020,Cork South-Central,All Others,0.1763
+Election_2020,Cork South-Central,FF,0.4426
+Election_2020,Cork South-Central,FG,0.184
+Election_2020,Cork South-Central,GP-LAB-SD,0
+Election_2020,Cork South-Central,SF,0.2016
+Election_2020,Cork South-West,All Others,0.3693
+Election_2020,Cork South-West,FF,0.2226
+Election_2020,Cork South-West,FG,0.246
+Election_2020,Cork South-West,GP-LAB-SD,0.0015
+Election_2020,Cork South-West,SF,0.1606
 Election_2020,Donegal,All Others,0.3113
 Election_2020,Donegal,FF,0.3366
 Election_2020,Donegal,FG,0.081
@@ -261,31 +261,31 @@ Election_2020,Dublin Fingal,FF,0.2616
 Election_2020,Dublin Fingal,FG,0.128
 Election_2020,Dublin Fingal,GP-LAB-SD,0.0605
 Election_2020,Dublin Fingal,SF,0.1626
-Election_2020,Dublin Mid–West,All Others,0.2843
-Election_2020,Dublin Mid–West,FF,0.1886
-Election_2020,Dublin Mid–West,FG,0.19
-Election_2020,Dublin Mid–West,GP-LAB-SD,0.0345
-Election_2020,Dublin Mid–West,SF,0.3026
-Election_2020,Dublin North–West,All Others,0.1483
-Election_2020,Dublin North–West,FF,0.1546
-Election_2020,Dublin North–West,FG,0.052
-Election_2020,Dublin North–West,GP-LAB-SD,0.2985
-Election_2020,Dublin North–West,SF,0.3466
+Election_2020,Dublin Mid-West,All Others,0.2843
+Election_2020,Dublin Mid-West,FF,0.1886
+Election_2020,Dublin Mid-West,FG,0.19
+Election_2020,Dublin Mid-West,GP-LAB-SD,0.0345
+Election_2020,Dublin Mid-West,SF,0.3026
+Election_2020,Dublin North-West,All Others,0.1483
+Election_2020,Dublin North-West,FF,0.1546
+Election_2020,Dublin North-West,FG,0.052
+Election_2020,Dublin North-West,GP-LAB-SD,0.2985
+Election_2020,Dublin North-West,SF,0.3466
 Election_2020,Dublin Rathdown,All Others,0.3793
 Election_2020,Dublin Rathdown,FF,0.1296
 Election_2020,Dublin Rathdown,FG,0.233
 Election_2020,Dublin Rathdown,GP-LAB-SD,0.1125
 Election_2020,Dublin Rathdown,SF,0.1456
-Election_2020,Dublin South–Central,All Others,0.3873
-Election_2020,Dublin South–Central,FF,0.1536
-Election_2020,Dublin South–Central,FG,0.07
-Election_2020,Dublin South–Central,GP-LAB-SD,0.0815
-Election_2020,Dublin South–Central,SF,0.3086
-Election_2020,Dublin South–West,All Others,0.4673
-Election_2020,Dublin South–West,FF,0.1696
-Election_2020,Dublin South–West,FG,0.146
-Election_2020,Dublin South–West,GP-LAB-SD,0
-Election_2020,Dublin South–West,SF,0.2186
+Election_2020,Dublin South-Central,All Others,0.3873
+Election_2020,Dublin South-Central,FF,0.1536
+Election_2020,Dublin South-Central,FG,0.07
+Election_2020,Dublin South-Central,GP-LAB-SD,0.0815
+Election_2020,Dublin South-Central,SF,0.3086
+Election_2020,Dublin South-West,All Others,0.4673
+Election_2020,Dublin South-West,FF,0.1696
+Election_2020,Dublin South-West,FG,0.146
+Election_2020,Dublin South-West,GP-LAB-SD,0
+Election_2020,Dublin South-West,SF,0.2186
 Election_2020,Dublin West,All Others,0.3293
 Election_2020,Dublin West,FF,0.1916
 Election_2020,Dublin West,FG,0.15
@@ -321,11 +321,11 @@ Election_2020,Kildare South,FF,0.3906
 Election_2020,Kildare South,FG,0.228
 Election_2020,Kildare South,GP-LAB-SD,0.0535
 Election_2020,Kildare South,SF,0.1916
-Election_2020,Laois–Offaly,All Others,0.250589643
-Election_2020,Laois–Offaly,FF,0.38106672
-Election_2020,Laois–Offaly,FG,0.161505802
-Election_2020,Laois–Offaly,GP-LAB-SD,0
-Election_2020,Laois–Offaly,SF,0.232966529
+Election_2020,Laois-Offaly,All Others,0.250589643
+Election_2020,Laois-Offaly,FF,0.38106672
+Election_2020,Laois-Offaly,FG,0.161505802
+Election_2020,Laois-Offaly,GP-LAB-SD,0
+Election_2020,Laois-Offaly,SF,0.232966529
 Election_2020,Limerick City,All Others,0.1753
 Election_2020,Limerick City,FF,0.3046
 Election_2020,Limerick City,FG,0.212
@@ -336,11 +336,11 @@ Election_2020,Limerick County,FF,0.3026
 Election_2020,Limerick County,FG,0.298
 Election_2020,Limerick County,GP-LAB-SD,0
 Election_2020,Limerick County,SF,0.1506
-Election_2020,Longford–Westmeath,All Others,0.3323
-Election_2020,Longford–Westmeath,FF,0.3086
-Election_2020,Longford–Westmeath,FG,0.165
-Election_2020,Longford–Westmeath,GP-LAB-SD,0.0215
-Election_2020,Longford–Westmeath,SF,0.1706
+Election_2020,Longford-Westmeath,All Others,0.3323
+Election_2020,Longford-Westmeath,FF,0.3086
+Election_2020,Longford-Westmeath,FG,0.165
+Election_2020,Longford-Westmeath,GP-LAB-SD,0.0215
+Election_2020,Longford-Westmeath,SF,0.1706
 Election_2020,Louth,All Others,0.2483
 Election_2020,Louth,FF,0.2126
 Election_2020,Louth,FG,0.123
@@ -361,16 +361,16 @@ Election_2020,Meath West,FF,0.3006
 Election_2020,Meath West,FG,0.252
 Election_2020,Meath West,GP-LAB-SD,0
 Election_2020,Meath West,SF,0.3206
-Election_2020,Roscommon–Galway,All Others,0.6133
-Election_2020,Roscommon–Galway,FF,0.2196
-Election_2020,Roscommon–Galway,FG,0.076
-Election_2020,Roscommon–Galway,GP-LAB-SD,0
-Election_2020,Roscommon–Galway,SF,0.1426
-Election_2020,Sligo–Leitrim,All Others,0.2383
-Election_2020,Sligo–Leitrim,FF,0.3496
-Election_2020,Sligo–Leitrim,FG,0.204
-Election_2020,Sligo–Leitrim,GP-LAB-SD,0
-Election_2020,Sligo–Leitrim,SF,0.2536
+Election_2020,Roscommon-Galway,All Others,0.6133
+Election_2020,Roscommon-Galway,FF,0.2196
+Election_2020,Roscommon-Galway,FG,0.076
+Election_2020,Roscommon-Galway,GP-LAB-SD,0
+Election_2020,Roscommon-Galway,SF,0.1426
+Election_2020,Sligo-Leitrim,All Others,0.2383
+Election_2020,Sligo-Leitrim,FF,0.3496
+Election_2020,Sligo-Leitrim,FG,0.204
+Election_2020,Sligo-Leitrim,GP-LAB-SD,0
+Election_2020,Sligo-Leitrim,SF,0.2536
 Election_2020,Tipperary,All Others,0.4673
 Election_2020,Tipperary,FF,0.2646
 Election_2020,Tipperary,FG,0.088
