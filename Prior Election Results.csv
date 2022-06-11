@@ -39,11 +39,11 @@ Election_2016,Cork South-West,FF,0.2626
 Election_2016,Cork South-West,FG,0.412
 Election_2016,Cork South-West,Left,0.0745
 Election_2016,Cork South-West,SF,0.1486
-Election_2016,Donegal<,All Others,0.2228
-Election_2016,Donegal<,FF,0.2281
-Election_2016,Donegal<,FG,0.1845
-Election_2016,Donegal<,Left,0.0025
-Election_2016,Donegal<,SF,0.3631
+Election_2016,Donegal,All Others,0.2228
+Election_2016,Donegal,FF,0.2281
+Election_2016,Donegal,FG,0.1845
+Election_2016,Donegal,Left,0.0025
+Election_2016,Donegal,SF,0.3631
 Election_2016,Dublin Bay North,All Others,0.2098
 Election_2016,Dublin Bay North,FF,0.1486
 Election_2016,Dublin Bay North,FG,0.2635
@@ -94,11 +94,11 @@ Election_2016,Dublin West,FF,0.1926
 Election_2016,Dublin West,FG,0.199
 Election_2016,Dublin West,Left,0.2185
 Election_2016,Dublin West,SF,0.1366
-Election_2016,Dún Laoghaire,All Others,0.2163
-Election_2016,Dún Laoghaire,FF,0.1786
-Election_2016,Dún Laoghaire,FG,0.272
-Election_2016,Dún Laoghaire,Left,0.2555
-Election_2016,Dún Laoghaire,SF,0.0756
+Election_2016,DÃºn Laoghaire,All Others,0.2163
+Election_2016,DÃºn Laoghaire,FF,0.1786
+Election_2016,DÃºn Laoghaire,FG,0.272
+Election_2016,DÃºn Laoghaire,Left,0.2555
+Election_2016,DÃºn Laoghaire,SF,0.0756
 Election_2016,Galway East,All Others,0.2473
 Election_2016,Galway East,FF,0.2066
 Election_2016,Galway East,FG,0.355
@@ -291,11 +291,11 @@ Election_2020,Dublin West,FF,0.1916
 Election_2020,Dublin West,FG,0.15
 Election_2020,Dublin West,Left,0.1095
 Election_2020,Dublin West,SF,0.2196
-Election_2020,Dún Laoghaire,All Others,0.3093
-Election_2020,Dún Laoghaire,FF,0.2146
-Election_2020,Dún Laoghaire,FG,0.287
-Election_2020,Dún Laoghaire,Left,0.0615
-Election_2020,Dún Laoghaire,SF,0.1286
+Election_2020,DÃºn Laoghaire,All Others,0.3093
+Election_2020,DÃºn Laoghaire,FF,0.2146
+Election_2020,DÃºn Laoghaire,FG,0.287
+Election_2020,DÃºn Laoghaire,Left,0.0615
+Election_2020,DÃºn Laoghaire,SF,0.1286
 Election_2020,Galway East,All Others,0.3063
 Election_2020,Galway East,FF,0.2996
 Election_2020,Galway East,FG,0.227
